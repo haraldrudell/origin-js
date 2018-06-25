@@ -1,4 +1,4 @@
-Script to migrate listings that are stored in ListingsRegistry to using ListingsRegistryStorage store the listings
+Script to migrate listings that are stored in ListingsRegistry to using ListingsRegistryStorage to store the listings
 
 **Operating manual**
 
